@@ -1,0 +1,25 @@
+baseURL = "https://rohannevrikar.github.io/blog/"
+languageCode = "en-us"
+title = "Rohan's Blog"
+theme = "PaperMod"
+
+[params]
+  description = "Daily learnings and notes"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "Hi, I'm Rohan"
+  Content = "I write about what I learn every day."
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 5
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 10
