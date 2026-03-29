@@ -1,6 +1,6 @@
 baseURL = "https://rohannevrikar.github.io/blog/"
 languageCode = "en-us"
-title = "Rohan's Blog"
+title = "Rohan's brain dump"
 theme = "PaperMod"
 
 [params]
@@ -12,7 +12,7 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   Title = "Hi, I'm Rohan"
-  Content = "I write about what I learn every day."
+  Content = "I spend most of my day working with AI. This blog is my space to still feel like a human. Writing here to think out loud and share what I'm learning."
 
 [[menu.main]]
   name = "Archive"
